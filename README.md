@@ -1,4 +1,4 @@
-## :rocket: Journal-App
+## :rocket: Python course
 
 ![aaandrades](https://img.shields.io/badge/-Learning-blue)
 ![Build](https://img.shields.io/badge/-Working-brightgreen)
