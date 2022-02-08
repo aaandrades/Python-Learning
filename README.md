@@ -16,4 +16,4 @@ A bunch of notebooks with a python course summary.
 - Python 3.7
 
 *If you want to contribute to improve the project, please create your PR and write me :speech_balloon: . After it, sit down and take a beer, you deserve it!* :beers: .
-*This project is for academic purposes only, all right reserved. Andrés Andrade 2020 :copyright::registered:*
+*This project is for academic purposes only, all right reserved. Andrés Andrade 2022 :copyright::registered:*
