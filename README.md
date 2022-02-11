@@ -11,6 +11,10 @@ A bunch of notebooks with a python course summary.
 ### :alembic: Core Concepts
 - Setup
 - Data types
+  - Strings
+  - Numbers
+  - Dictionaries
+  - Tuples
 
 ### :construction: Made with
 - Python 3.7
