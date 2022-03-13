@@ -1,4 +1,4 @@
-import one
+import basics.one as one
 
 print("Top level in two.py")
 
