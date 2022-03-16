@@ -17,6 +17,8 @@ A bunch of notebooks with a python course summary.
   - Tuples
   - Set
 - Object Oriented Programming
+- Debugging
+- Modules
 
 ### :construction: Made with
 - Python 3.7
