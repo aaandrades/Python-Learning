@@ -19,6 +19,9 @@ A bunch of notebooks with a python course summary.
 - Object Oriented Programming
 - Debugging
 - Modules
+- Regex
+- Timing
+- Web scraping
 
 ### :construction: Made with
 - Python 3.7
